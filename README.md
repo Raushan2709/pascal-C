@@ -1,2 +1,2 @@
 # pascal-C
-this is code for pascal
+this is code for pascal..
